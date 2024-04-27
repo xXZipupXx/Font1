@@ -1,0 +1,24 @@
+.Title {
+    font-size: 20px;
+    width:100%;
+    box-shadow:5px 5px 5px black;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.footer{
+    width: 100%;
+    background-color: Navy;
+    text-align:center;
+    position:fixed;
+    color: White;
+    bottom:0;
+    line-height:3;
+
+}
+
+canvas{
+    border:3px solid;
+    box-shadow: 5px 5px 5px black;
+}
